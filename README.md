@@ -6,7 +6,7 @@ when using this program enter the maze imput in one line.
 ## Example Input:
     lu u ud ud ud ur lu ud ud urd lr lrd lud ur lu rd ld ud ud ur ld ud ud r ld u ud ud ud rd lu ud ud rd lu rd lu ud ud ur lr lu ud ud rd lur ld ud ur lr lr ld ud ud ur lr lu ur lr lr l ud ud ur lr lr lr lr lr lr ld ud ur lr lrd ld r l rd lr lu ud r ld ud ud r lr lud r ld ud rd lud ud ud rd ld urd ldr
 Each string in the input is made up of the chars 'l', 'u', 'r', and/or 'd' (left, right, up, and down). These letters represend the walls of the square that it represents.
-This means that the 3rd srring in the input will represent 3,0 in the maze and the 100th string will represent 9,9. All strings must be seperated by whitespace
+This means that the 3rd srring in the input will represent 3,0 in the maze and the 100th string will represent 9,9. All strings must be seperated by whitespace.
 
  ## Output:
     (9 9)
